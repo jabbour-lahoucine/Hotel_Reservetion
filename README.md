@@ -1,7 +1,7 @@
 # Hotel_Reservetion
 Welcome to the client-side repository of our Hotel Reservation System project! This web application, developed with JSP/Servlet, CSS, Bootstrap, JavaScript, and incorporating various Java libraries for specific functionalities, offers a seamless experience for hotel reservations.
 
-Features:
+#Features:
 Room Availability Check: Users can check real-time availability of hotel rooms, simplifying the reservation process.
 
 Statistics on Rooms, Staff, and Clients: Statistical features provide detailed information on rooms, staff, and clients, offering an overview of hotel activity.
@@ -18,7 +18,7 @@ Download Reservation Ticket in PDF Format with QR Code: Clients have the option 
 
 Receive Confirmation Email: Users automatically receive a confirmation email after making a reservation, ensuring transparent communication with JavaMail.
 
-Technologies Used:
+#Technologies Used:
 JSP/Servlet: Used for managing dynamic pages and server requests.
 
 MySQL: Relational database for storing information about rooms, reservations, etc.
